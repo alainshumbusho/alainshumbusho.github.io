@@ -1,8 +1,6 @@
 ### Greetings👋 
 
-
-<!--
-**AlainShumbusho/AlainShumbusho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alain Shumbusho and I'm a Full Stack Executive based in the United States.
 
 Here are some ideas to get you started:
 
