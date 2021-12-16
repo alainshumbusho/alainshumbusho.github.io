@@ -1,4 +1,7 @@
-### Intro Exercise
-###Greetings👋 
+# Numerical Linear Algebra Exercises
 
-My name is Alain Shumbusho and I'm a Software Engineer and Entrepreneur. 
+## Contents
+
+1. [Matrix-Vector Mult](ex1.pdf)
+2. [Orthogonal Vectors and Matrices](ex2.pdf)
+3. [Norms](Ex3.pdf)
